@@ -3,11 +3,14 @@
 **Notes App** is a simple and effective note-taking application designed for Android. It allows users to create, edit, and manage their notes seamlessly with a clean and intuitive user interface.
 
 ## 📱 Screenshots
-<img src="./Screenshot_20241029_102538_Note App.jpg" width="300" />  
-<img src="./Screenshot_20241029_102625_Note App.jpg" width="300" />  
-<img src="./Screenshot_20241029_104139_Note App.jpg" width="300" />  
-<img src="./Screenshot_20241029_104143_Note App.jpg" width="300" />  
-<img src="./Screenshot_20241029_104310_Note App.jpg" width="300" />  
+<p align="center">
+  <img src="./Screenshot_20241029_102538_Note App.jpg" width="300" />  
+  <img src="./Screenshot_20241029_102625_Note App.jpg" width="300" />  
+  <img src="./Screenshot_20241029_104139_Note App.jpg" width="300" />  
+  <img src="./Screenshot_20241029_104143_Note App.jpg" width="300" />  
+  <img src="./Screenshot_20241029_104310_Note App.jpg" width="300" />  
+  
+</p>
 
 ## 🛠️ Technologies Used  
 - **Jetpack Compose** – For building the UI  
